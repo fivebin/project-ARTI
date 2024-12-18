@@ -1,23 +1,26 @@
-# 내 아이 마음 스케치북 ARTI (팀명: ARTI)
-![아티로고](https://github.com/user-attachments/assets/263965a9-b414-439b-80e3-d0e17deeb0fb)
+# ARTI🎨 
+![Inrto](https://github.com/user-attachments/assets/b92cca70-427c-40e6-9f88-13ecc1a46895)
 
+# 👀 서비스 소개
 
-
-
-## 서비스 소개
-* 서비스명:  AI기반 미술심리 검사 및 동화생성 서비스
+* <b>서비스명 :</b> AI 기반 동화 생성 및 미술 심리 검사 서비스
+* <b>서비스설명 :</b> OPEN AI (ChatGpt_4o, DallE_v3)와 Yolov5 모델을 활용하여 동화 생성 및 미술 심리 검사를 제공하는 서비스 
 <br>
 
-## 프로젝트 기간
-2024.11.27 ~ 2024.12.19
+ ![InfoService](https://github.com/user-attachments/assets/34b86fd4-11c4-4f6d-8a13-b9521c53c00f)
+
 <br>
 
-## ⭐ 주요 기능
-* 기능1
-* 기능2
-* 기능3
-* 기능4
-* 기능5
+# 📅 프로젝트 기간
+<b>2024.11.27 ~ 2024.12.19</b> (약 4주)
+
+<br>
+
+# 구현기능
+DB설계
+테이블 설계 및 관리
+메인페이지 구성
+
 <br>
 
 ## ⛏ 기술스택
@@ -27,46 +30,54 @@
         <th>내용</th>
     </tr>
     <tr>
-        <td>language</td>
+        <td>사용언어</td>
         <td>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>Front-end</td>
+        <td>라이브러리</td>
         <td>
-            <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-            <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-            <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+            <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+            <img src="https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=OAuth2.0&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TossPayments-5865F2?style=for-the-badge&logo=TossPayments&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>Back-end</td>
+        <td>개발도구</td>
         <td>
-            <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
-            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Apache Tomcat 9.0-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/> 
-        </td>
-    </tr>
-    <tr>
-        <td>IDE</td>
-        <td>
-            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>DataBase</td>
+        <td>서버환경</td>
         <td>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Uvicorn-007ACC?style=for-the-badge&logo=Uvicorn&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>Collaboration</td>
+        <td>데이터베이스</td>
         <td>
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+            <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/googlecloudstorage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>협업도구</td>
+        <td>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+            <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+            <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
         </td>
     </tr>
 </table>
@@ -74,90 +85,52 @@
 
 <br>
 
-## 시스템 아키텍처(구조) 예시 
-![스크린샷 2024-12-18 145317](https://github.com/user-attachments/assets/b4df2a00-4d22-4056-a6d9-651bafcb353a)
+
+## ⚙ 시스템 아키텍처
+![SystemArchitecture](https://github.com/user-attachments/assets/1b540465-0ada-4d25-b425-baca6bad0d58)
+
 <br>
 
-## 서비스 흐름도
-![스크린샷 2024-12-18 145502](https://github.com/user-attachments/assets/837341a4-9157-4465-8b0f-bd7dde30eccc)
+## 📌 서비스 흐름도
+![UserFlow](https://github.com/user-attachments/assets/d3348034-7e7b-4e6b-9d1f-eea6ee762a1c)
+
 <br>
 
-## ER다이어그램
-![스크린샷 2024-12-16 173648](https://github.com/user-attachments/assets/5bc77a1a-b860-46c0-9503-0a3aec8bcfef)
-<br>
+## 📌 ER다이어그램
+![ERD](https://github.com/user-attachments/assets/512b03c0-361b-43e8-b09d-f672c78eae33)
 
-
-
-
-## 🖥 화면 구성
-
-### 메인화면
-![스크린샷 2024-12-18 145726](https://github.com/user-attachments/assets/d2174011-3737-4800-8080-c9a3d4aae29c)
-<br>
-
-### 로그인/회원가입
-![스크린샷 2024-12-18 145736](https://github.com/user-attachments/assets/5768d5c3-5423-4e5f-8fea-96faacab8de5)
-<br>
-
-### HTP검사
-![스크린샷 2024-12-18 145803](https://github.com/user-attachments/assets/a19fe6df-162c-4e1a-9e2f-5d4214445504)
-<br>
-
-### 동화생성
-![스크린샷 2024-12-18 145818](https://github.com/user-attachments/assets/e06e9a47-9668-43d9-a882-9bc4052e4582)
-<br>
-
-### 나의 동화책
-![스크린샷 2024-12-18 145826](https://github.com/user-attachments/assets/b3ff5e59-48bd-4f0f-9192-6a1f3efa4efc)
-<br>
-
-### 공개갤러리
-![스크린샷 2024-12-18 145837](https://github.com/user-attachments/assets/96b6cbd8-28e8-4bd5-9a57-7f822eecb1dc)
-<br>
-
-### 동화 에디터
-![스크린샷 2024-12-18 145845](https://github.com/user-attachments/assets/0403fcac-6a21-43ab-81a3-98aed49e08b3)
-<br>
-
-### 동화
-![스크린샷 2024-12-18 145855](https://github.com/user-attachments/assets/dc91215a-c56f-480e-8ef5-87b2bec26077)
 <br>
 
 
-## 팀원 역할
+
+
+
+## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
     <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
     <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
     <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
     <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
-    
   </tr>
   <tr>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
+    <td align="center"><strong>이혜성</strong></td>
+    <td align="center"><strong>김예원</strong></td>
+    <td align="center"><strong>김원섭</strong></td>
+    <td align="center"><strong>권오빈</strong></td>
   </tr>
   <tr>
-    <td align="center"><PM, Backend, Frontend</b></td>
-    <td align="center"><b>Backend, prompt Engineering</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>PM / Back-end /
+                        <br>Front-end</b></td>
+    <td align="center"><b>Back-end /
+                        <br>Prompt-Engineering</b></td>
+    <td align="center"><b>Data Modeling</b></td>
+    <td align="center"><b>SQL / Frontend</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/user-attachments/assets/f9af1c97-db84-4cee-93e7-7a4ff0f818af" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/happycat139" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/K-wonsub1871" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/fivebin" target='_blank'>github</a></td>
   </tr>
 </table>
-
-## 🤾‍♂️ 트러블슈팅
-개념: 
-  
-* 문제1<br>
- 문제점 설명 및 해결방안
- 
-* 문제2<br>
- 문제점 설명 및 해결방안
