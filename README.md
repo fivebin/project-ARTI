@@ -17,9 +17,9 @@
 <br>
 
 # 구현기능
-- DB설계
+- DB설계 (MySQL 사용)
 - 테이블 설계 및 관리
-- 메인페이지 구성
+- 프론트엔드 업무로 메인페이지 구성
 
 <br>
 
@@ -125,7 +125,7 @@
     <td align="center"><b>Back-end /
                         <br>Prompt-Engineering</b></td>
     <td align="center"><b>Data Modeling</b></td>
-    <td align="center"><b>SQL / Frontend</b></td>
+    <td align="center"><b>DataBase / Front-end</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/user-attachments/assets/f9af1c97-db84-4cee-93e7-7a4ff0f818af" target='_blank'>github</a></td>
