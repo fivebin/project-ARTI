@@ -16,13 +16,6 @@
 
 <br>
 
-# 구현기능
-- DB설계 (MySQL 사용)
-- 테이블 설계 및 관리
-- 프론트엔드 업무로 메인페이지 구성
-
-<br>
-
 ## ⛏ 기술스택
 <table>
     <tr>
@@ -98,6 +91,13 @@
 
 ## 📌 ER다이어그램
 ![ERD](https://github.com/user-attachments/assets/512b03c0-361b-43e8-b09d-f672c78eae33)
+
+<br>
+
+# 나의 구현기능
+- DB설계 (MySQL 사용)
+- 테이블 설계 및 관리
+- 프론트엔드 업무로 메인페이지 구성
 
 <br>
 
